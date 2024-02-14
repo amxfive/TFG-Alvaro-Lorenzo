@@ -4,8 +4,8 @@ En este repositorio se encuentra el código desarrollado para el Trabajo de Fin 
 - **Experimentation code:** El código desarrollado para trabajar con un modelo generativo denominado MolGAN y el análisis de moléculas.
   - AnalisisMuestrasGeneradas.ipynb --> Cuadernillo jupyter notebook que analiza las distribuciones en base las propiedades de las moléculas generadas mediante gráficas de distribución
   - ExperimentacionHiperparametros.ipynb --> Cuadernillo jupyter notebook que experimenta con diferentes entrenamientos de MolGAN en base al dataset usado y a determinados hiperparámetros.
-  - GeneracionMoleculasCOnHIVDataset.ipynb --> Cuadernillo jupyter notebook que explica el flujo de programación que ha de seguirse en DeepChem para implementar MolGAN y poder generar moléculas
-- **ExperimentationData:** Las diferentes moléculas que se han generado durante la experimentación con la MolGAN. Estan nombrados con un patrón de nomenclatura específico de la siguiente forma "dataset_atomos_epocas_pasosgendis.csv". La estructuración de las columnas del CSV es la siguiente:
+  - GeneracionMoleculasConHIVDataset.ipynb --> Cuadernillo jupyter notebook que explica el flujo de programación que ha de seguirse en DeepChem para implementar MolGAN y poder generar moléculas
+- **ExperimentationData:** Las diferentes moléculas que se han generado durante la experimentación con MolGAN. Estan nombrados con un patrón de nomenclatura específico de la siguiente forma "dataset_atomos_epocas_pasosgendis.csv". La estructuración de las columnas del CSV es la siguiente:
   - Moléculas en formato SMILES
   - Peso Molecular
   - Valor de LogP

@@ -12,7 +12,7 @@ En este repositorio se encuentra el código desarrollado para el Trabajo de Fin 
   - Valor de QED
   - Cumple con la regla de Lipinski?
   
-![image](https://github.com/amxfive/TFG-Alvaro-Lorenzo/assets/118398554/85ae57d7-9594-4b5f-8a16-97b66d2091c8)
+  ![image](https://github.com/amxfive/TFG-Alvaro-Lorenzo/assets/118398554/85ae57d7-9594-4b5f-8a16-97b66d2091c8)
 
 - **Images:** Imagenes en formato .jpg de las gráficas generadas durante el análisis de las muestras generadas
 - **TutorialesDC:** Diferentes tutoriales realizados para aprender el manejo de la librería
